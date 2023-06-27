@@ -1,0 +1,11 @@
+Zadanie H15
+Duálnou heuristikou s výhodnostnými koeficientmi riešite úlohu
+danú modelom (obrátená úloha o batohu, kde hmotnosť batohu
+musí byť aspoň K a počet predmetov v batohu aspoň r). Riešte úlohu
+pre n=500, r=350, K=9500 a pre lokálne kritérium „Vlož prvok z dosiaľ
+nespracovaných prvkov, ktorý má najmenší pomer koeficientov cj /aj
+(najmenší výhodnostný koeficient)“. Východiskové riešenie položte
+rovné prázdnemu batohu (neprípustné riešenie). Súčasťou zadania sú
+súbory H5_a.txt a H5_c.txt, ktoré obsahujú n údajov koeficientov aj
+a cj pre j=1..n potrebných pre riešenie zadanej úlohy.
+
